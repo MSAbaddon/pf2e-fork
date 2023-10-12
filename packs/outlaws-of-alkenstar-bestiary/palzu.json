@@ -6,7 +6,7 @@
             "_id": "zyo1tEI1ErNEoww4",
             "flags": {
                 "core": {
-                    "sourceId": "Compendium.pf2e.equipment-srd.Item.4lO2uNA70HqTuSAD"
+                    "sourceId": "Compendium.pf2e.equipment-srd.Item.BdNRM9VTxs5BYq0C"
                 }
             },
             "img": "systems/pf2e/icons/equipment/weapons/piercing-wind.webp",
@@ -97,7 +97,10 @@
                 },
                 "rules": [],
                 "size": "med",
-                "slug": "piercing-wind",
+                "slug": "jax",
+                "source": {
+                    "value": "Pathfinder #179: Cradle of Quartz"
+                },
                 "specific": {
                     "material": null,
                     "runes": {
@@ -370,11 +373,6 @@
         },
         {
             "_id": "suUb0kVpQj2xlW7a",
-            "flags": {
-                "pf2e": {
-                    "linkedWeapon": "zyo1tEI1ErNEoww4"
-                }
-            },
             "img": "systems/pf2e/icons/default-icons/melee.svg",
             "name": "Jax",
             "sort": 500000,
@@ -465,11 +463,6 @@
         },
         {
             "_id": "KKkWifgG7SHLOwVt",
-            "flags": {
-                "pf2e": {
-                    "linkedWeapon": "zyo1tEI1ErNEoww4"
-                }
-            },
             "img": "systems/pf2e/icons/default-icons/melee.svg",
             "name": "Jax",
             "sort": 700000,
